@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{564DDA6E-06AE-403C-84C3-278B247D227D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Programming_In_Csharp_70_483</RootNamespace>
+    <RootNamespace>Chapter</RootNamespace>
     <AssemblyName>Programming-In-Csharp-70-483</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="L0101_Creating_A_Thread.cs" />
+    <Compile Include="L0102_Using_A_Background_Thread.cs" />
+    <Compile Include="L0103_Parameterized_ThreadStart.cs" />
+    <Compile Include="L0104_Stopping_A_Thread.cs" />
+    <Compile Include="L0105_Using_ThreadStaticAttribute.cs" />
+    <Compile Include="L0106_Using_ThreadLocal.cs" />
+    <Compile Include="L0107_Queuing_Work_To_Thread_Pool.cs" />
+    <Compile Include="L0108_Starting_A_Task.cs" />
+    <Compile Include="L0109_Using_A_Task_That_Returns_A_Value.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
