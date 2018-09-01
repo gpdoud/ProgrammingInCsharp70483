@@ -56,6 +56,7 @@
     <Compile Include="L0111_Schedule_Different_Continuation_Tasks.cs" />
     <Compile Include="L0185_Custom_Event_Accessor.cs" />
     <Compile Include="L0187_Manually_Raising_Events_With_Exceptions_Handling.cs" />
+    <Compile Include="L0192_Using_Environment_FailFast.cs" />
     <Compile Include="Practice\O0104_DefiningAndRaisingEventsUsingAction.cs" />
     <Compile Include="Practice\O0104_EventsUsingEventType.cs" />
     <Compile Include="Practice\O0104_UsingBuildInCalculateDelegate.cs" />

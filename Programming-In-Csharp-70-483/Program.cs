@@ -23,7 +23,8 @@ namespace Programming_In_Csharp_70_483 {
 			//Chapter1.L0111_Schedule_Different_Continuation_Tasks.Start();
 			/* Events */
 			//Chapter1.L0185_Custom_Event_Accessor.Start();
-			Chapter1.L0187_Manually_Raising_Events_With_Exceptions_Handling.Start();
+			//Chapter1.L0187_Manually_Raising_Events_With_Exceptions_Handling.Start();
+			Chapter1.L0192_Using_Environment_FailFast.Start();
 
 			/* Practice */
 			//Chapter1.Practice.O0104_CreatingAndUsingADelegate.Start();
