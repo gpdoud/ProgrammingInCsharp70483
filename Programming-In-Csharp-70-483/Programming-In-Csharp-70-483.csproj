@@ -54,6 +54,11 @@
     <Compile Include="L0109_Using_A_Task_That_Returns_A_Value.cs" />
     <Compile Include="L0110_Continuation_After_Task.cs" />
     <Compile Include="L0111_Schedule_Different_Continuation_Tasks.cs" />
+    <Compile Include="Practice\O0104_DefiningAndRaisingEventsUsingAction.cs" />
+    <Compile Include="Practice\O0104_EventsUsingEventType.cs" />
+    <Compile Include="Practice\O0104_UsingBuildInCalculateDelegate.cs" />
+    <Compile Include="Practice\O0104_CreatingAndUsingADelegate.cs" />
+    <Compile Include="Practice\O0104_MulticastingDelegates.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
