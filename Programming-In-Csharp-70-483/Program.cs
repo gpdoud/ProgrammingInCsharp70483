@@ -20,7 +20,17 @@ namespace Programming_In_Csharp_70_483 {
 			//Chapter1.L0108_Starting_A_Task.Start();
 			//Chapter1.L0109_Using_A_Task_That_Returns_A_Value.Start();
 			//Chapter1.L0110_Continuation_After_Task.Start();
-			Chapter1.L0111_Schedule_Different_Continuation_Tasks.Start();
+			//Chapter1.L0111_Schedule_Different_Continuation_Tasks.Start();
+			/* Events */
+			//Chapter1.L0185_Custom_Event_Accessor.Start();
+			Chapter1.L0187_Manually_Raising_Events_With_Exceptions_Handling.Start();
+
+			/* Practice */
+			//Chapter1.Practice.O0104_CreatingAndUsingADelegate.Start();
+			//Chapter1.Practice.O0104_MulticastingDelegates.Start();
+			//Chapter1.Practice.O0104_UsingBuildInCalculateDelegate.Start();
+			//Chapter1.Practice.O0104_DefiningAndRaisingEventsUsingAction.Start();
+			//Chapter1.Practice.O0104_EventsUsingEventType.Start();
 		}
 		static void Main(string[] args) {
 			(new Program()).Run();
