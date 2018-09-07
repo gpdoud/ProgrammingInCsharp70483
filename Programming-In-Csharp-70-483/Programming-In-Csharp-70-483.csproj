@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cert\Encryption.cs" />
     <Compile Include="L0101_Creating_A_Thread.cs" />
     <Compile Include="L0102_Using_A_Background_Thread.cs" />
     <Compile Include="L0103_Parameterized_ThreadStart.cs" />
